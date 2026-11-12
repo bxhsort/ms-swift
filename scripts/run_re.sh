@@ -1,0 +1,2 @@
+bash /inspire/hdd3/project/agent-driven-world-model/wangdianyi-240107110022/qb-lim/BXH/ms-swift/scripts/Rebuttal_Regressive.sh
+bash /inspire/hdd3/project/agent-driven-world-model/wangdianyi-240107110022/qb-lim/BXH/ms-swift/scripts/Rebuttal_Generative.sh

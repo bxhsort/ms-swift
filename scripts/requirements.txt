@@ -1,0 +1,3 @@
+pip install deepspeed
+pip install -U "qwen_vl_utils>=0.0.14" decord
+pip install wandb
